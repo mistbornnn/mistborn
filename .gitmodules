@@ -1,0 +1,3 @@
+[submodule "example/test-data"]
+	path = example/test-data
+	url = https://github.com/mistbornnn/test-data.git
