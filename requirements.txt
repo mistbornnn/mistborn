@@ -1,0 +1,9 @@
+faiss-cpu
+Flask
+requests
+langchain-community
+numpy
+openai
+pytest
+python-dotenv
+tiktoken
